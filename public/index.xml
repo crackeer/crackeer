@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>记录生活，记录爱 on 记录生活，记录爱</title>
+    <link>https://example.com/</link>
+    <description>Recent content in 记录生活，记录爱 on 记录生活，记录爱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sat, 05 Dec 2020 09:46:12 +0800</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>&lt;h3 id=&#34;身份焦虑&#34;&gt;《身份焦虑》&lt;/h3&gt;
+&lt;p&gt;诚然，现代社会前所未有地提高了我们的收入，至少使我们看起来更为富有。实际上，现代社会给人们真实的感受却是我们愈来愈感觉到贫穷。现代社会激发了人们无限的期望，在我们想要得到的和能够得到的东西之间、在我们实际的地位和理想的地位之间造成了永远无法填补的鸿沟。&lt;/p&gt;
+&lt;p&gt;令人奇怪的是，人类物质方面的实际拥有极大地丰富了，随之而来的竟然是一种挥之不去且愈显强烈的“一无所有”的感觉，以及对这种感觉的恐惧！&lt;/p&gt;
+&lt;h3 id=&#34;瓦尔登湖&#34;&gt;《瓦尔登湖》&lt;/h3&gt;
+&lt;p&gt;让我们如大自然般悠然自在地生活一天吧，别因为有坚果外壳或者蚊子翅膀落在铁轨上而翻了车。让我们该起床时就赶紧起床，该休息时就安心休息，保持安宁而没有烦扰的心态；身边的人要来就让他来，要去就让他去，让钟声回荡，让孩子哭喊——下定决心好好地过一天。&lt;/p&gt;
+&lt;h3 id=&#34;王者&#34;&gt;王者&lt;/h3&gt;
+&lt;p&gt;努力的人，应该像好色那样好学。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
