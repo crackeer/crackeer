@@ -1,4 +1,4 @@
-baseURL = "https://crackeer.github.io/blog/public"
+baseURL = "https://crackeer.github.io/"
 languageCode = "en-us"
 title = "记录生活，记录爱"
 theme = "LeaveIt"

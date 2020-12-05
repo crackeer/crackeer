@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://crackeer.github.io/blog/public/sitemap.xml
+Sitemap: https://crackeer.github.io/sitemap.xml
