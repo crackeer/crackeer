@@ -6,7 +6,6 @@ categories: ["技术"]
 ---
 
 ```nginx
-
 #user  nobody;
 worker_processes  1;
 
@@ -16,11 +15,9 @@ worker_processes  1;
 
 #pid        logs/nginx.pid;
 
-
 events {
     worker_connections  1024;
 }
-
 
 http {
     include       mime.types;

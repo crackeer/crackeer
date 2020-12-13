@@ -11,7 +11,7 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 
 [blackfriday]
-  hrefTargetBlank = true
+  hrefTargetBlank = false
   nofollowLinks = true
   noreferrerLinks = true
 
