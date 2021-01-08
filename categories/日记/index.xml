@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日记 on 记录生活，记录爱</title>
+    <link>https://crackeer.github.io/categories/%E6%97%A5%E8%AE%B0/</link>
+    <description>Recent content in 日记 on 记录生活，记录爱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 05 Dec 2020 17:35:08 +0800</lastBuildDate><atom:link href="https://crackeer.github.io/categories/%E6%97%A5%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020 12 05</title>
+      <link>https://crackeer.github.io/2020/2020-12-05/</link>
+      <pubDate>Sat, 05 Dec 2020 17:35:08 +0800</pubDate>
+      
+      <guid>https://crackeer.github.io/2020/2020-12-05/</guid>
+      <description>上午 醒来的时候8点多了，没有立即起床，打开了空调
+快9点才起来，电脑前坐着，安装hugo，搭建个人博客
+成功安装了Office，到年底，到了年终述职报告的日志，PPT必不可少
+快11点的时候，终于完成，我计划以后的一些日记，将在此记录
+折腾，永不止步，很早之前就使用hexo搭建过这样的静态博客，最终也不了了之
+中午 海底捞的自热番茄小火锅，葱炒鸡蛋，蒸的米饭，又是美美的一顿
+我最近的一个变化是，不管再好吃的东西，不再执着于吃很多，不再执着吃很饱，不饿就好。
+每周六必看《斗罗大陆》动画，唐三见到了小舞，下周小舞应该是献祭给了唐三
+下午 饭后，尝试使用typora写文档
+午睡了一个多小时，醒来晕晕乎乎，四点多起来了，还是干了点工作上的事儿
+一个页面，解析url参数，给一连串的http接口，然后依次请求，将请求结果输出，配置化 六点到，外面天已经黑了，晚上是打算吃蒸红薯、煎饺
+晚上 戴了两个星期的帽子，别人都不知道我为啥突然戴上了帽子，下周差不多终于可以摘掉
+芬芬又重新修剪了后脑勺那块剪秃的四周，两个星期过去，那块秃的头皮长出的头发差不多可以掩盖住头皮，
+如果不细看，没啥差别。
+看KPL比赛：LGD大鹅 VS WB·TS，竟然是4：0战胜了ts，看来明天AG要对阵LGD了，我赌AG赢
+在哔哩哔哩上看到联想一体机Yoga27的测评，觉得很不错，如果下次更换电脑，差不多就是它了，之前看的NUC也还不错
+快10点去洗澡，今天要睡个好觉</description>
+    </item>
+    
+    <item>
+      <title>2020 12 04</title>
+      <link>https://crackeer.github.io/2020/2020-12-04/</link>
+      <pubDate>Fri, 04 Dec 2020 18:01:03 +0800</pubDate>
+      
+      <guid>https://crackeer.github.io/2020/2020-12-04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

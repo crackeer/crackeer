@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>golang on 记录生活，记录爱</title>
+    <link>https://crackeer.github.io/tags/golang/</link>
+    <description>Recent content in golang on 记录生活，记录爱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 12 Dec 2020 20:40:01 +0800</lastBuildDate><atom:link href="https://crackeer.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golang工具</title>
+      <link>https://crackeer.github.io/2020/golang%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sat, 12 Dec 2020 20:40:01 +0800</pubDate>
+      
+      <guid>https://crackeer.github.io/2020/golang%E5%B7%A5%E5%85%B7/</guid>
+      <description>一. 开发工具 1)sql2go 用于将 sql 语句转换为 golang 的 struct. 使用 ddl 语句即可。 例如对于创建表的语句: show create table xxx. 将输出的语句，直接粘贴进去就行。 http://stming.cn/tool/sql2go.html
+2. toml2go 用于将编码后的 toml 文本转换问 golang 的 struct. https://xuri.me/toml-to-go/
+3. curl2go 用来将 curl 命令转化为具体的 golang 代码. https://mholt.github.io/curl-to-go/
+4.json2go 用于将 json 文本转换为 struct. https://mholt.github.io/json-to-go/
+5.mysql 转 ES 工具 http://www.ischoolbar.com/EsParser/
+6. golang 模拟模板的工具，在支持泛型之前，可以考虑使用。 https://github.com/cheekybits/genny
+7. 查看某一个库的依赖情况，类似于 go list 功能 https://github.com/KyleBanks/depth
+8. 一个好用的文件压缩和解压工具，集成了 zip，tar 等多种功能，主要还有跨平台 https://github.com/mholt/archiver
+9. go 内置命令 go list 可以查看某一个包的依赖关系. go vet 可以检查代码不符合 golang 规范的地方。</description>
+    </item>
+    
+  </channel>
+</rss>

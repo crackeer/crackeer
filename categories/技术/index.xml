@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术 on 记录生活，记录爱</title>
+    <link>https://crackeer.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on 记录生活，记录爱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 05 Dec 2020 17:27:04 +0800</lastBuildDate><atom:link href="https://crackeer.github.io/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nginx添加代理</title>
+      <link>https://crackeer.github.io/2020/nginx%E6%B7%BB%E5%8A%A0%E4%BB%A3%E7%90%86/</link>
+      <pubDate>Sat, 05 Dec 2020 17:27:04 +0800</pubDate>
+      
+      <guid>https://crackeer.github.io/2020/nginx%E6%B7%BB%E5%8A%A0%E4%BB%A3%E7%90%86/</guid>
+      <description>#user nobody; worker_processes 1; #error_log logs/error.log; #error_log logs/error.log notice; #error_log logs/error.log info;  #pid logs/nginx.pid;  events { worker_connections 1024; } http { include mime.types; default_type application/octet-stream; server_names_hash_bucket_size 64; #log_format main &amp;#39;$remote_addr - $remote_user [$time_local] &amp;#34;$request&amp;#34; &amp;#39;  # &amp;#39;$status $body_bytes_sent &amp;#34;$http_referer&amp;#34; &amp;#39;  # &amp;#39;&amp;#34;$http_user_agent&amp;#34; &amp;#34;$http_x_forwarded_for&amp;#34;&amp;#39;;  #access_log logs/access.log main;  sendfile on; #tcp_nopush on;  #keepalive_timeout 0;  keepalive_timeout 65; #gzip on;  server { listen 80; server_name localhost; #charset koi8-r;  #access_log logs/host.</description>
+    </item>
+    
+  </channel>
+</rss>
