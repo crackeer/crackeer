@@ -25,8 +25,8 @@ preserveTaxonomyNames = true
     weight = 1
 
   [[menu.main]]
-    name = "标签"
-    url = "/tags/"
+    name = "好站"
+    url = "/website/"
     weight = 2
 
   [[menu.main]]
@@ -35,7 +35,7 @@ preserveTaxonomyNames = true
     weight = 3
 
   [[menu.main]]
-    name = "关于"
+    name = "我"
     url = "/about/"
     weight = 4
 
