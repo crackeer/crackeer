@@ -12,6 +12,8 @@ tags: ["电影"]
 
 #### 《破碎人生》[豆瓣链接](https://movie.douban.com/subject/2209575/)
 
+不要以为你重复我说的话 我就会以为你在认真听我讲话
+
 #### 《处子之山》[豆瓣链接](https://movie.douban.com/subject/26304901/)
 
 #### 《海街日记》日本[豆瓣链接](https://movie.douban.com/subject/25895901/)
@@ -30,6 +32,8 @@ tags: ["电影"]
 
 #### 《菊次郎的夏天》日本[豆瓣链接](https://movie.douban.com/subject/1293359/)
 
+以为菊次郎是那个小男孩，最后才发现是那个大人
+
 #### 《灿烂人生》[豆瓣链接](https://movie.douban.com/subject/1291831/)
 
 6个小时的长电影
@@ -42,11 +46,17 @@ tags: ["电影"]
 
 #### 《倾城之泪》国产[豆瓣链接](https://movie.douban.com/subject/6738760/)
 
+就是冲着任贤齐去看的
+
 #### 《绿皮书》美国[豆瓣链接](https://movie.douban.com/subject/27060077/)
 
 #### 《徒手攀岩》纪录片[豆瓣链接](https://movie.douban.com/subject/30167509/)
 
+信念的力量吧
+
 #### 《步履不停》日本，是枝裕和[豆瓣链接](https://movie.douban.com/subject/2222996/)
+
+是枝裕和的家庭剧情片，温暖
 
 #### 《四个春天》国产[豆瓣链接](https://movie.douban.com/subject/27191492/)
 
@@ -54,6 +64,12 @@ tags: ["电影"]
 
 #### 《小森林·冬春篇》日本[豆瓣链接](https://movie.douban.com/subject/25814707/)
 
+乡村美景，喜欢下雪的时候，美极了
+
 #### 《心迷宫》[豆瓣链接](https://movie.douban.com/subject/25917973/)
 
+看起来很过瘾
+
 #### 《蛮荒故事》[豆瓣链接](https://movie.douban.com/subject/24750126/)
+
+一些荒诞的因为小事儿引发的血案
