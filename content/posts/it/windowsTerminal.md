@@ -20,7 +20,7 @@ tags: ["WSL"]
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
 
-    "defaultProfile": "{c6eaf9f4-32a7-5fdc-b5cf-066e8a4b1e40}",
+    "defaultProfile": "{4B25BFD9-4962-49AE-8512-BBD336462BAB}",
 
     // You can add more global application settings here.
     // To learn more about global settings, visit https://aka.ms/terminal-global-settings
@@ -48,7 +48,9 @@ tags: ["WSL"]
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "name": "Windows PowerShell",
                 "commandline": "powershell.exe",
-                "hidden": false
+                "startingDirectory" : "D:/github/blog",
+                "hidden": false,
+                "colorScheme" : "Atom"
             },
             {
                 // Make changes here to the cmd.exe profile.
@@ -63,20 +65,51 @@ tags: ["WSL"]
                 "name": "Ubuntu-18.04",
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory" : "//wsl$/Ubuntu-18.04/root",
-                "colorScheme" :"Tango Dark"
+                "colorScheme" :"Atom"
             },
             {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
                 "hidden": true,
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
+            },
+            {
+                // Make changes here to the Git Bash profile  关于Git bash的配置
+                "guid": "{4B25BFD9-4962-49AE-8512-BBD336462BAB}",
+                "name": "Git Bash",
+                "commandline": "C:\\Program Files\\Git\\bin\\bash.exe",
+                "hidden": false,
+				"tabTitle" : "Git Bash",/*名称*/
+                "startingDirectory" : "D:/github/blog"
             }
         ]
     },
 
     // Add custom color schemes to this array.
     // To learn more about color schemes, visit https://aka.ms/terminal-color-schemes
-    "schemes": [],
+    "schemes": [
+        {
+            "name": "Atom",
+            "black": "#000000",
+            "red": "#fd5ff1",
+            "green": "#87c38a",
+            "yellow": "#ffd7b1",
+            "blue": "#85befd",
+            "purple": "#b9b6fc",
+            "cyan": "#85befd",
+            "white": "#e0e0e0",
+            "brightBlack": "#000000",
+            "brightRed": "#fd5ff1",
+            "brightGreen": "#94fa36",
+            "brightYellow": "#f5ffa8",
+            "brightBlue": "#96cbfe",
+            "brightPurple": "#b9b6fc",
+            "brightCyan": "#85befd",
+            "brightWhite": "#e0e0e0",
+            "background": "#161719",
+            "foreground": "#c5c8c6"
+        }
+    ],
 
     // Add custom actions and keybindings to this array.
     // To unbind a key combination from your defaults.json, set the command to "unbound".
@@ -99,6 +132,5 @@ tags: ["WSL"]
         { "command": { "action": "splitPane", "split": "auto", "splitMode": "duplicate" }, "keys": "alt+shift+d" }
     ]
 }
-
 ```
 
