@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-tags:
-
+tags: ["日记"]
+categories: ["生活记录"]
 ---
