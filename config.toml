@@ -11,9 +11,10 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 
 [blackfriday]
-  hrefTargetBlank = false
+  hrefTargetBlank = true
   nofollowLinks = true
   noreferrerLinks = true
+
 
 [Permalinks]
  posts = "/:year/:filename/"
@@ -48,7 +49,7 @@ preserveTaxonomyNames = true
 [params]
     since = 2020
     author = "疯子"                           # Author's name
-    avatar = "/images/me/avatar.jpeg"           # Author's avatar
+    avatar = "/images/me/avatar.png"           # Author's avatar
     subtitle = "记录是变好的开始"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
