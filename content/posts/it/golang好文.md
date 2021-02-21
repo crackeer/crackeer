@@ -14,3 +14,10 @@ https://qcrao91.gitbook.io/go/
 ### Go 语言高性能编程
 
 https://github.com/geektutu/high-performance-go
+### 哈哈哈哈收拾
+### 上海市
+### 还傻傻
+### 还是卡上
+### 煞科沙
+### 贺卡杀手
+### 史卡沙

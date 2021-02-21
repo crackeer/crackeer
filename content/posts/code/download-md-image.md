@@ -1,8 +1,8 @@
 ---
-title: "下载上传到图床的图片"
+title: "golang程序下载图片到本地"
 date: 2021-02-16T22:13:45+08:00
-tags: ["it"]
-categories: ["技术"]
+tags: ["代码片段"]
+categories: ["IT"]
 ---
 
 ```go
