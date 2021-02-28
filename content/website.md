@@ -31,6 +31,7 @@ tags: ["收藏"]
 
 - http://585.tv/
 - [蓝光电影](http://www.languang.co/)
+- [VIP电影在线看](https://bukaivip.com/)
 
 ## 音乐
 
@@ -42,4 +43,5 @@ tags: ["收藏"]
 - [gatsbyjs-react](https://www.gatsbyjs.cn/)
 - [ant-design](https://ant.design/components/overview-cn/)
 - [nextjs](https://www.nextjs.cn/)
+- [dayjs](https://dayjs.fenxianglu.cn/)
 - [爱谷歌访问助手，实在是太赞啦](https://iguge.app/)
