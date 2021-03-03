@@ -32,6 +32,7 @@ tags: ["收藏"]
 - http://585.tv/
 - [蓝光电影](http://www.languang.co/)
 - [VIP电影在线看](https://bukaivip.com/)
+- [免费在线看超清电影](https://bukaivip.com/)
 
 ## 音乐
 
@@ -40,8 +41,14 @@ tags: ["收藏"]
 
 # IT
 
-- [gatsbyjs-react](https://www.gatsbyjs.cn/)
 - [ant-design](https://ant.design/components/overview-cn/)
-- [nextjs](https://www.nextjs.cn/)
 - [dayjs](https://dayjs.fenxianglu.cn/)
 - [爱谷歌访问助手，实在是太赞啦](https://iguge.app/)
+- [nextjs](https://www.nextjs.cn/)
+- [gatsbyjs-react](https://www.gatsbyjs.cn/)
+
+## ReactJS插件
+
+- [JSON展示插件](https://www.npmjs.com/package/react-json-view)
+- [JSON编辑插件](https://www.npmjs.com/package/jsoneditor)
+- [好用的富文本编辑器](https://www.npmjs.com/package/wangeditor)
