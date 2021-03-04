@@ -18,15 +18,6 @@ tags: ["收藏"]
 - [链滴·黑客派](https://ld246.com/)
 - [电鸭社区-远程工作](https://eleduck.com/)
 
-## 使用工具
-
-- [网页色彩](http://tool.c7sky.com/webcolor/)
-- [网页发送文件](https://sendfiles.online/)
-- [JSON2Go](https://www.sojson.com/json/json2go.html)
-- [JSON对比](https://www.sojson.com/jsondiff.html)
-- [Git教程](https://www.progit.cn/#_getting_started)
-- [免费图床 - 图壳](https://imgkr.com/#upload)
-
 ## 看电影
 
 - http://585.tv/
@@ -38,17 +29,3 @@ tags: ["收藏"]
 
 - [在线音乐](http://www.languang.co/music/)
 - [listen1](http://listen1.github.io/listen1/)
-
-# IT
-
-- [ant-design](https://ant.design/components/overview-cn/)
-- [dayjs](https://dayjs.fenxianglu.cn/)
-- [爱谷歌访问助手，实在是太赞啦](https://iguge.app/)
-- [nextjs](https://www.nextjs.cn/)
-- [gatsbyjs-react](https://www.gatsbyjs.cn/)
-
-## ReactJS插件
-
-- [JSON展示插件](https://www.npmjs.com/package/react-json-view)
-- [JSON编辑插件](https://www.npmjs.com/package/jsoneditor)
-- [好用的富文本编辑器](https://www.npmjs.com/package/wangeditor)
